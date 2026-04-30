@@ -1,2 +1,1 @@
-# Codsoft
-Codsoft internship task repository
+Python Mini Project
